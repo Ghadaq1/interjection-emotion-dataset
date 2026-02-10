@@ -25,10 +25,7 @@ emotion detection in non-lexical interjections across three languages:
 - **Dataset Size:** Each label has **50 clips per language**, for a total of 1,800 annotated clips.  
 
 ## Contents
-
-- `data_sample/` – small subset of audio clips (2–3 per language/label)  
 - `annotations.csv` – emotion labels and metadata for each clip  
-- `features/` – CSV containing extracted acoustic features (pitch, duration, HNR, etc.)  
 - `scripts/` – analysis and feature extraction scripts  
 - `README.md` – dataset documentation  
 
